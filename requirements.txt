@@ -1,6 +1,6 @@
 streamlit
 numpy
-opencv-python-headless # Use headless for server deployments; less dependencies
+opencv-python-headless
 Pillow
-torch==2.9.0+cpu       # Changed to a version compatible with Python 3.14, and forced CPU
-torchvision==0.20.0+cpu # Compatible torchvision version for torch 2.9.0, and forced CPU
+torch==2.0.1+cpu  # Compatible with Python 3.10. Adjust if you have a specific PyTorch build URL.
+torchvision==0.15.2+cpu # Compatible torchvision version.
