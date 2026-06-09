@@ -1,4 +1,3 @@
-import torch._dynamo.utils  # Cached first to resolve Python 3.11/3.12 loading bugs
 
 import os
 import cv2
