@@ -1,6 +1,5 @@
 streamlit
 numpy
 opencv-python
-torch==2.0.1
-torchvision==0.15.2
+torch==2.0.1+cputorchvision==0.15.2+cpu 
 Pillow
