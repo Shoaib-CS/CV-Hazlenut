@@ -1,6 +1,6 @@
-streamlit
-numpy
-opencv-python-headless
-Pillow
-torch==2.0.1+cpu  # Compatible with Python 3.10. Adjust if you have a specific PyTorch build URL.
-torchvision==0.15.2+cpu # Compatible torchvision version.
+streamlit>=1.30.0
+numpy>=1.24.0
+opencv-python-headless>=4.8.0
+Pillow>=10.0.0
+torch>=2.9.0
+torchvision>=0.18.0
